@@ -21,9 +21,6 @@ Here are some ideas to get you started:
 
 ### 🚀 티스토리 블로그 [Tech Blog](https://bumlog.tistory.com/) 
 ### 🚀 이력서 [Resume](https://bumlog.notion.site/c54d27c23fe44a6fbdb37554ad0fb2aa)
-   - [ ] HTML
- - [ ] CSS
- - [ ] Javascript
- - [ ] React
+
 
   
