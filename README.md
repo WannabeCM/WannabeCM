@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **WannabeCM/WannabeCM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,6 +16,8 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello!%20I%20am%20Jason&fontSize=90)
  
 ![enter image description here](https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=455&q=80)
+### 🚀 티스토리 블로그 [Tech Blog](https://bumlog.tistory.com/) 
+### 🚀 이력서 [Resume](https://www.notion.so/bumlog/c54d27c23fe44a6fbdb37554ad0fb2aa)
 
 
   
